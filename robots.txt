@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-nqxb79.radarsatu88.shop/sitemap.xml
